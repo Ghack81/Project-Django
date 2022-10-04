@@ -1,0 +1,19 @@
+body { 
+    color: #000000; 
+    font-size: 12px; 
+    font-family: calibris, geneva, sans-serif; 
+    background-color: #e8f6e9 
+  }
+  
+  p { 
+    color: #333333; 
+    font-size: 14px; 
+    font-weight: bold; 
+    text-align: justify; 
+  }
+  .titre{
+    font-size: 24px;
+    text-align: center;
+    color: cadetblue;
+    font-family: 'Times New Roman', Times, sans-serif;
+  }
